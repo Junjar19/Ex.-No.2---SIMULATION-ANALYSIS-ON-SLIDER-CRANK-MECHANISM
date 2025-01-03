@@ -34,10 +34,14 @@
 ###  2. Draw the vector bc of length 100 mm, perpendicular to the crank CB from the configuration diagram 
 ###  3. At b, draw a projection line perpendicular to AB from the configuration diagram 
 ###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram.
+![Screenshot 2025-01-03 084440](https://github.com/user-attachments/assets/62d02bc2-fad3-45d5-a36c-acfb3fc11168)
 
 
 ## Output
-![Screenshot 2024-10-21 052330](https://github.com/user-attachments/assets/d48f0314-c963-4b7c-b906-34cfa27c9993)
+![Screenshot 2025-01-03 083931](https://github.com/user-attachments/assets/5663d957-0aec-476e-a8e0-d308b106bc8a)
+![Screenshot 2025-01-03 083947](https://github.com/user-attachments/assets/bd73d7c6-e065-4842-88ad-7185dded40ac)
+
+![Screenshot 2025-01-03 084003](https://github.com/user-attachments/assets/31604366-13db-4187-b2f3-3422eb12f1f0)
 
 
 ### Name:Junjar U
